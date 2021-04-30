@@ -11,9 +11,11 @@ Besides my professional life, I like to spend my time photographing 📷 (as a h
 
 You can find me at:
 
-[![Blog Badge](https://img.shields.io/badge/site-diogodmoreira.com-black)](https://diogodmoreira.com/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-@diogodmoreira-blue)](https://twitter.com/diogodmoreira)
-[![Instagram Badge](https://img.shields.io/badge/instagram-@diogo.dmoreira-orange)](https://instagram.com/diogo.dmoreira)
+
+<a href="https://twitter.com/diogodmoreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diogodmoreira" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1541533/diogo-moreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1541533" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diogodmoreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diogodmoreira" height="30" width="40" /></a>
+<a href="https://instagram.com/diogo.dmoreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diogo.dmoreira" height="30" width="40" /></a>
 
 ### Stats
 
