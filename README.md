@@ -16,7 +16,6 @@ You can find me at:
 - [Twitter](https://twitter.com/diogodmoreira)
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
 - [LinkedIn](https://linkedin.com/in/diogodmoreira)
-- [Instagram](https://instagram.com/diogo.dmoreira)
 
 You can ask me anything (within reason). 😄
 
