@@ -22,6 +22,11 @@ You can ask me anything (within reason). 😄
 ### Stats
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogomoreira&show_icons=true&theme=dark&locale=en" alt="diogomoreira" /></p>
