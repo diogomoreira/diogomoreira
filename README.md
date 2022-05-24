@@ -7,7 +7,7 @@ I’m a Professor at [Instituto Federal da Paraíba](https://ifpb.edu.br), Brazi
 - [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=DlSdlvEAAAAJ)
 - [Lattes (pt-br)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4384159A1)
 
-Besides my professional life, I like to spend my time photographing 📷 (as a hobby), playing videogames 🎮 and writing the articles I post in my [blog](https://diogodmoreira.com/blog). There, you can read about my musings on life, software development, technology and so forth.
+Besides my professional life, I like to spend my time photographing 📷 (as a hobby), playing videogames 🎮 and writing.
 
 ## 📬 Social
 
