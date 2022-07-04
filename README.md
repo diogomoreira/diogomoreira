@@ -13,7 +13,7 @@ You can find me at [Twitter](https://twitter.com/diogodmoreira), [Stackoverflow]
 
 You can ask me anything (within reason). I'll be glad to help 😄
 
-### Stats
+### Wakatime status
 
 <!--START_SECTION:waka-->
 
