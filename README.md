@@ -10,17 +10,3 @@ Besides my professional life, I like to spend my time photographing 📷 (as a h
 You can find me at [Twitter](https://twitter.com/diogodmoreira), [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira) or [LinkedIn](https://linkedin.com/in/diogodmoreira)
 
 You can ask me anything (within reason). I'll be glad to help 😄
-
-### Wakatime status
-
-<!--START_SECTION:waka-->
-
-```text
-Docker       7 mins          █████████████▓░░░░░░░░░░░   54.28 %
-YAML         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-Python       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-TypeScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
-
-<!--END_SECTION:waka-->
