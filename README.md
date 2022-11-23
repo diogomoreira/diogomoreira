@@ -9,4 +9,4 @@ Besides my professional life, I like to spend my time photographing 📷 (as a h
 
 You can find me at [Twitter](https://twitter.com/diogodmoreira), [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira) or [LinkedIn](https://linkedin.com/in/diogodmoreira)
 
-You can ask me anything (within reason). I'll be glad to help 😄
+You can ask me about: Javascript/Typescript, NodeJS, React, NestJS, Testing or anything related to software development/engineering in general (within reason). I'll be glad to help 😄
