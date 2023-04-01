@@ -1,6 +1,6 @@
 ## Hello, I'm Diogo Moreira! 👋🏻
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/diogomoreira?style=flat-square)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/diogomoreira?style=flat-square)](https://keybase.io/diogomoreira)
 
 Professor | Software Engineer | Researcher
 
