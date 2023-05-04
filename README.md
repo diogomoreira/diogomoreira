@@ -18,4 +18,4 @@ Besides my professional life, I like to spend my time photographing (as a hobby)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=diogomoreira&label=Profile%20Views&color=12&icon=5&pretty=true)]()
+[![](https://visitcount.itsvg.in/api?id=diogomoreira&label=Profile%20Views&color=12&icon=5&pretty=true)](#)
