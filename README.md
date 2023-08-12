@@ -12,6 +12,15 @@ My name is Diogo Moreira, I'm from Brazil 🇧🇷. I work as a Professor at [In
 ## Weekly development breakdown 📊
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        6 hrs           ████████████████████▓░░░░   82.65 %
+Java         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+TypeScript   34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/diogomoreira?style=flat-square)](https://keybase.io/diogomoreira)
