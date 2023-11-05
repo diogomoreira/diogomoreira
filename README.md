@@ -11,16 +11,6 @@ My name is Diogo Moreira, I'm from Brazil 🇧🇷. I work as a Professor at [In
 
 ## Weekly development breakdown 📊
 
-<!--START_SECTION:waka-->
-
-```txt
-Other        4 hrs 16 mins   ███████████████▒░░░░░░░░░   61.82 %
-SCSS         1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-TypeScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Git Config   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Java         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-```
-
-<!--END_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogomoreira)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/diogomoreira?style=flat-square)](https://keybase.io/diogomoreira)
