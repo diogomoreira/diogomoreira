@@ -4,7 +4,7 @@ My name is Diogo Moreira, I'm from Brazil 🇧🇷. I work as a Professor at [In
 
 ## You can find me at
 - [My website](https://diogodmoreira.com)
-- [Twitter](https://twitter.com/diogodmoreira)
+- [Twitter/X](https://x.com/diogodmoreira)
 - [Instagram](https://instagram.com/diogo.dmoreira)
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
 - [LinkedIn](https://linkedin.com/in/diogodmoreira)
