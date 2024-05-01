@@ -7,7 +7,7 @@ My name is Diogo Moreira, I'm from Brazil 🇧🇷. I work as a Professor at [In
 I'm a dedicated **lifelong learner**. I quickly learn new skills and programming languages and in recent years I have dedicated a good part of my studies to learning the most varied technologies of the Javascript ecosystem, including Express, NestJS, TypeScript and React.
 
 ## You can find me at
-- [My website](https://diogodmoreira.com)
+- [My website](https://diogomoreira.dev)
 - [Twitter/X](https://x.com/diogodmoreira)
 - [Instagram](https://instagram.com/diogo.dmoreira)
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
