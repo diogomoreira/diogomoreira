@@ -12,3 +12,7 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 - [Instagram](https://instagram.com/diogo.dmoreira)
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
 - [LinkedIn](https://linkedin.com/in/diogodmoreira)
+
+## Coding status
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
