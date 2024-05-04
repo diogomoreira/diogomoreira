@@ -13,6 +13,15 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 
 ## Coding status
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript                 6 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   36.92 %
+Java                       6 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
+YAML                       1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Terraform                  49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON                       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Wakatime](https://wakatime.com/badge/user/4c67be21-a1be-4bbc-8864-9fff3fa5db5b.svg?style=for-the-badge)](https://wakatime.com/@4c67be21-a1be-4bbc-8864-9fff3fa5db5b)
