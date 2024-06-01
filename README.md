@@ -15,11 +15,11 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                       6 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.36 %
-sh                         5 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-TOML                       2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Other                      2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-YAML                       1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+sh           5 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.14 %
+Bash         4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+TOML         2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Other        1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Text         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
