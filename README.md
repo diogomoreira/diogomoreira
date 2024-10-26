@@ -15,11 +15,11 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        11 hrs 52 mins  █████████░░░░░░░░░░░░░░░░   35.71 %
-Java              9 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-TypeScript        4 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-TeX               3 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-HTML              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Java              11 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   31.41 %
+JavaScript        11 hrs 24 mins  ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+TypeScript        4 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+TeX               3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+HTML              2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
