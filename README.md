@@ -15,9 +15,9 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 <!--START_SECTION:waka-->
 
 ```txt
-CSS     20 mins         ███████████████▒░░░░░░░░░   60.76 %
-HTML    10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-Other   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+CSS     20 mins         ██████████████░░░░░░░░░░░   55.44 %
+HTML    10 mins         ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Other   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
 ```
 
 <!--END_SECTION:waka-->
