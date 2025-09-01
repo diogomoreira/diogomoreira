@@ -6,7 +6,7 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 
 ## You can find me at
 - [My website](https://diogomoreira.dev)
-- [Twitter/X](https://x.com/diogodmoreira)
+- [Mastodon](https://hachyderm.io/@diogomoreira)
 - [Instagram](https://instagram.com/diogo.dmoreira)
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
 - [LinkedIn](https://linkedin.com/in/diogodmoreira)
