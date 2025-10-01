@@ -11,14 +11,4 @@ I'm a dedicated **lifelong learner**. I quickly learn new skills and programming
 - [Stackoverflow](https://stackoverflow.com/users/1541533/diogo-moreira)
 - [LinkedIn](https://linkedin.com/in/diogodmoreira)
 
-## Coding status
-<!--START_SECTION:waka-->
-
-```txt
-HTML    1 hr 20 mins    ████████████████████████▓   98.82 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-```
-
-<!--END_SECTION:waka-->
-
 [![Wakatime](https://wakatime.com/badge/user/4c67be21-a1be-4bbc-8864-9fff3fa5db5b.svg?style=for-the-badge)](https://wakatime.com/@4c67be21-a1be-4bbc-8864-9fff3fa5db5b)
